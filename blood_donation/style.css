@@ -61,6 +61,8 @@ header h1 {
     cursor: pointer;
     transition: all 0.3s ease-in;
     text-transform: uppercase;
+     box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1),
+    0 15px 12px rgba(0, 0, 0, 0.08);
 }
 
 .menu-list li:hover{
