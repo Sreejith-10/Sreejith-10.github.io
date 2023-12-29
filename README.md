@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react,javascript,typescript**
 
-- 📫 How to reach me **sreejithsree956266@gmai.com**
+- 📫 How to reach me **sreejithsree956266@gmail.com**
 
 - ⚡ Fun fact **I think iam not funny**
 
